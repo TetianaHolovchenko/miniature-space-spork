@@ -7,6 +7,8 @@ package com.mycompany.app;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello Remote World!");
+        //Declare a variable
+        String drink = "coffee";
+        System.out.println("I want "  +drink);
     }
 }
